@@ -1,2 +1,4 @@
-package edu.northeastern.hw1;public class Question1 {
+package edu.northeastern.hw1;
+
+public class Question1 {
 }
